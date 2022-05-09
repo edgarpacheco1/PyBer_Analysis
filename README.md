@@ -21,7 +21,7 @@ Our purpose will be to create a DataFrame with the rideshare data by city type a
 
   ![Pyber 4](PyBer4.PNG)
  
- ![Pyber 5](PyBer5.PNG)
+  ![Pyber 5](Pyber5.PNG)
  
   PyBer Analysis [PyBer_Challenge.ipynb](PyBer_Challenge.ipynb).
 
